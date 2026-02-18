@@ -14,7 +14,7 @@
   <img
     src="https://img.shields.io/badge/🎰_ИГРАТЬ-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в Sugar Rush с промокодом LIKE1"
-    width="420"
+    width="300"
     style="display:block; margin:18px auto;"
   />
 </a>
