@@ -8,7 +8,7 @@
   <img
     src="https://img.shields.io/badge/🎰_ИГРАТЬ_С_ПРОМОКОДОМ_LIKE1_-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в Sugar Rush с промокодом LIKE1"
-    width="400"
+    width="500"
     style="display:block; margin:18px auto;"
   />
 </a>
@@ -25,7 +25,7 @@
   <img
     src="https://img.shields.io/badge/🎰_ИГРАТЬ_С_ПРОМОКОДОМ_LIKE1_-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в Sugar Rush с промокодом LIKE1"
-    width="400"
+    width="500"
     style="display:block; margin:18px auto;"
   />
 </a>
