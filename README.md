@@ -6,7 +6,7 @@
 
 <a href="https://v0-wingame.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🎰_ИГРАТЬ-ff007f?style=for-the-badge&labelColor=111827"
+    src="https://img.shields.io/badge/🎰_ИГРАТЬ_ПРОМОКОД_LIKE1_-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в Sugar Rush с промокодом LIKE1"
     width="250"
     style="display:block; margin:18px auto;"
@@ -23,7 +23,7 @@
 
 <a href="https://v0-wingame.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🎰_ИГРАТЬ-ff007f?style=for-the-badge&labelColor=111827"
+    src="https://img.shields.io/badge/🎰🎰_ИГРАТЬ_ПРОМОКОД_LIKE1_-ff007f?style=for-the-badge&labelColor=111827"
     alt="Играть в Sugar Rush с промокодом LIKE1"
     width="250"
     style="display:block; margin:18px auto;"
